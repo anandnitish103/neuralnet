@@ -13,7 +13,7 @@ scaled <- as.data.frame( scale(bost,center = mins , scale = maxs - mins))
 head(scaled)
  
 
-
+#loadind libraries
 
 
 library(neuralnet)
